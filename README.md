@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @Pelumz
-- 👀 
-- 🌱 I’m Junior Software Engineer (Backend Engineer) with Python Django Framework.
-- Experienced Software Engineer with a demonstrated history in the Information Technology and services Industry. Skilled in Python , Django , HTML, Cascading style Sheet (Css), SQL, XML . Strong Engineering and science professional with a Bachelor’s degree in view in Computer science ( Information Technology option) from the prestigious Federal university of technology Akure 👨‍💻 
-- 💞️ I’m looking to collaborate on ...projects, startups and many more to gain more industry experiences
-- 📫 How to reach me :www.linkedin.com/in/pelumi-akinwole-5ba59219a
+Educational and Career Experience
 
-<!---
-Pelumz/Pelumz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m Pelumi, a Junior Software Engineer with a strong focus on backend development, data-driven solutions, and emerging frontend technologies. I graduated with First-Class honors in Computer Science (Information Technology) from the Federal University of Technology, Akure.
+
+My technical toolkit includes C#, Python, Java, Spring Boot, Docker, Postman, PgAdmin, SQL, Git, and Flutter. Recently, I’ve deepened my expertise in Java and Spring Boot, gaining practical experience with JPA for data persistence, integrating logging frameworks for application monitoring, and adopting microservices architecture for scalable solutions. As part of my growth, I have started learning Flutter, building cross-platform applications to complement my backend skills, and expanding my capabilities in modern mobile app development.
+
+My approach to work is driven by a commitment to delivering high-quality, efficient code while meeting project deadlines. I thrive in both collaborative and independent environments, always seeking ways to optimize systems and embrace new technologies. With strong communication and problem-solving skills, I’m dedicated to lifelong learning and continuous improvement.
+
+Recent Projects
+
+Backend Development and Optimization: Enhanced backend functionalities using Java and Spring Boot, implementing JPA for data management, integrating logging frameworks for improved debugging, writing tests for controllers to ensure reliability, and using jOOQ with Gradle for code generation. Managed API integrations and adopted microservices architecture to boost system performance and scalability.
+Cross-Platform Application Development with Flutter: Designed and built interactive and visually appealing mobile user interfaces, learning to handle assets, layouts, and state management while integrating backend APIs for seamless user experiences.
+
+Personalized Adaptive Mobile Learning System: Co-authored a research paper and developed a system aimed at enhancing mobile learning experiences.
