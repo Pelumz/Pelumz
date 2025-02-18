@@ -2,7 +2,7 @@ Educational and Career Experience
 
 I’m Pelumi, a Junior Software Engineer with a strong focus on backend development, data-driven solutions, and emerging frontend technologies. I graduated with First-Class honors in Computer Science (Information Technology) from the Federal University of Technology, Akure.
 
-My technical toolkit includes C#, Python, Java, Spring Boot, Docker, Postman, PgAdmin, SQL, Git, and Flutter. Recently, I’ve deepened my expertise in Java and Spring Boot, gaining practical experience with JPA for data persistence, integrating logging frameworks for application monitoring, and adopting microservices architecture for scalable solutions. As part of my growth, I have started learning Flutter, building cross-platform applications to complement my backend skills, and expanding my capabilities in modern mobile app development.
+My technical toolkit includes Python, Java, Spring Boot, Django, Docker, Postman, PgAdmin, SQL, Git, and Flutter. Recently, I’ve deepened my expertise in Java and Spring Boot, gaining practical experience with JPA for data persistence, integrating logging frameworks for application monitoring, and adopting microservices architecture for scalable solutions. As part of my growth, I have started learning Flutter, building cross-platform applications to complement my backend skills, and expanding my capabilities in modern mobile app development.
 
 My approach to work is driven by a commitment to delivering high-quality, efficient code while meeting project deadlines. I thrive in both collaborative and independent environments, always seeking ways to optimize systems and embrace new technologies. With strong communication and problem-solving skills, I’m dedicated to lifelong learning and continuous improvement.
 
